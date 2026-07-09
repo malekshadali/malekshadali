@@ -8,7 +8,7 @@
 
 ### 🔎 currently
 
-- 🛡️ Working through **every lab on PortSwigger Web Security Academy**, one category at a time — starting with Authentication
+- 🛡️ Going through **all the PortSwigger Web Security Academy labs**, starting with Authentication
 - 📝 Publishing clean, structured notes as I go → see [`portswigger-notes`](https://github.com/malekshadali/portswigger-notes)
 - 🧠 Deepening my fundamentals in **JavaScript** and **C / C++**
 - 🏗️ Occasionally building small tools/SaaS side-projects to practice full-stack skills
@@ -26,13 +26,9 @@
 
 ### 📌 pinned work
 
-Pin these once they exist (Profile → Customize your pins):
-
 | repo | what it is |
 |---|---|
 | `portswigger-notes` | my lab-by-lab notes on PortSwigger Web Security Academy |
-| _(your SaaS project)_ | short one-line description |
-| _(a C/C++ project)_ | e.g. a small systems/DSA project once you have one public |
 
 ### 📊 stats
 
@@ -41,4 +37,4 @@ Pin these once they exist (Profile → Customize your pins):
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=malekshadali&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center"><i>notes public, learning louder 🐈</i></p>
+<p align="center"><i>my cat doesn't know I do this, but here we are 🐈</i></p>
